@@ -33,6 +33,6 @@ Summary:
 
 ## iOS Simulator
 
-0. `$ open ios/stopwatch.xcodeproj/` - Opens the iOS sub-project in Xcode.
+0. `$ open ios/authenticationblah.xcodeproj/` - Opens the iOS sub-project in Xcode.
 
 1. Click the "Play" button in Xcode
